@@ -1,0 +1,29 @@
+InputFile Name,0Margin Path ,PMLA (Server) Path
+eq<ddmmyy>_csv.zip,Z:\0Margin\BSECASH\JAN2022\02012022,1) CASH --->     E:\ProcessFiles\Input\CASH
+BR<ddmmyy>.0949,Z:\0Margin\BSECASH\JAN2022\02012022,1) CASH --->     E:\ProcessFiles\Input\CASH
+SCRIP.zip,Z:\0Margin\BSECASH\JAN2022\02012022,1) CASH --->     E:\ProcessFiles\Input\CASH
+BFX_TRTM_949_<yyyymmdd>.csv,Z:\0Margin\BSE CURRENCY DERIVATIVE\JAN2022,4) Currency --->    E:\ProcessFiles\Input\CDS
+BFX_CO<ddmmyy>.csv,Z:\0Margin\BSE CURRENCY DERIVATIVE\JAN2022,4) Currency --->    E:\ProcessFiles\Input\CDS
+MCX_MS<yyyymmdd>.csv,Z:\0Margin\NSECOMMODITY\JAN2022,3) Commodity --->    E:\ProcessFiles\Input\CMD
+MCX_ProductMaster.csv,Z:\0Margin\NSECOMMODITY\JAN2022,3) Commodity --->    E:\ProcessFiles\Input\CMD
+MCX_MRG_56185_<yyyymmdd>.csv,Z:\0Margin\NSECOMMODITY\JAN2022,3) Commodity --->    E:\ProcessFiles\Input\CMD
+MCX_POSITION_56185_<yyyymmdd>.csv,Z:\0Margin\NSECOMMODITY\JAN2022,3) Commodity --->    E:\ProcessFiles\Input\CMD
+MCX_Trd<yyyymmdd>.csv,Z:\0Margin\NSECOMMODITY\JAN2022,3) Commodity --->    E:\ProcessFiles\Input\CMD
+NCDEX_BC_<ddmmyyyy>.dat,Z:\0Margin\NCDEX\JAN2022\20220103,3) Commodity --->    E:\ProcessFiles\Input\CMD
+NCDEX_CN01_<ddmmyyyy>.csv,Z:\0Margin\NCDEX\JAN2022\20220103,3) Commodity --->    E:\ProcessFiles\Input\CMD
+NCDEX_MG13_01252_<ddmmyyyy>.LIS,Z:\0Margin\NCDEX\JAN2022\20220103,3) Commodity --->    E:\ProcessFiles\Input\CMD
+NCDEX_PS03_01252_<ddmmyyyy>.CSV,Z:\0Margin\NCDEX\JAN2022\20220103,3) Commodity --->    E:\ProcessFiles\Input\CMD
+NCDEX_TR01_01252_<ddmmyyyy>.CSV,Z:\0Margin\NCDEX\JAN2022\20220103,3) Commodity --->    E:\ProcessFiles\Input\CMD
+<ddmmyyyy>_06769.txt.gz,Z:\0Margin\NSECASH\JAN2022,1) CASH --->     E:\ProcessFiles\Input\CASH
+CM_ORD_LOG_<ddmmyyyy>_06769.CSV.gz,Z:\0Margin\NSECASH\JAN2022,1) CASH --->     E:\ProcessFiles\Input\CASH
+nnf_security.gz,Z:\0Margin\NSECASH\JAN2022,1) CASH --->     E:\ProcessFiles\Input\CASH
+cd_contract.txt,Z:\0Margin\NSECURRENCYDERIVATIVE\JAN2022,4) Currency --->    E:\ProcessFiles\Input\CDS
+X_CN01_NSE_<ddmmyyyy>.csv.gz,Z:\0Margin\NSECURRENCYDERIVATIVE\JAN2022,4) Currency --->    E:\ProcessFiles\Input\CDS
+X_MG13_06769_<ddmmyyyy>.lis.gz,Z:\0Margin\NSECURRENCYDERIVATIVE\JAN2022,4) Currency --->    E:\ProcessFiles\Input\CDS
+CD_ORD_LOG_<ddmmyyyy>_06769.csv.gz,Z:\0Margin\NSECURRENCYDERIVATIVE\JAN2022,4) Currency --->    E:\ProcessFiles\Input\CDS
+X_PS03_06769_<ddmmyyyy>.CSV.gz,Z:\0Margin\NSECURRENCYDERIVATIVE\JAN2022,4) Currency --->    E:\ProcessFiles\Input\CDS
+FINAL_X_<ddmmyyyy>_06769.txt.gz,Z:\0Margin\NSECURRENCYDERIVATIVE\JAN2022,4) Currency --->    E:\ProcessFiles\Input\CDS
+F_CN01_NSE_<ddmmyyyy>.CSV.gz,Z:\0Margin\NSEDERIVATIVES\JAN2022,2) FNO --->       E:\ProcessFiles\Input\FNO
+F_MG13_06769_<ddmmyyyy>.lis.gz,Z:\0Margin\NSEDERIVATIVES\JAN2022,2) FNO --->       E:\ProcessFiles\Input\FNO
+F_PS03_06769_<ddmmyyyy>.CSV.gz,Z:\0Margin\NSEDERIVATIVES\JAN2022,2) FNO --->       E:\ProcessFiles\Input\FNO
+<ddmmyyyy>_06769.txt.gz,Z:\0Margin\NSEDERIVATIVES\JAN2022,2) FNO --->       E:\ProcessFiles\Input\FNO
